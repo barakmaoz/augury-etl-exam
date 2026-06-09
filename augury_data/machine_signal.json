@@ -1,0 +1,13 @@
+{
+  "event_id": "evt-001",
+  "source": "machine_signal", 
+  "machine_id": "M-100", 
+  "sensor_id": "S-1", 
+  "event_ts": "2026-04-30T10:03:00Z", 
+  "ingestion_ts": "2026-04-30T10:05:12Z", 
+  "metric": "vibration", 
+  "value": 82.4, 
+  "unit": "mm/s", 
+  "factory_id": "F-1", 
+  "line_id": "L-2" 
+}

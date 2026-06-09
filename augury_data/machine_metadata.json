@@ -1,0 +1,10 @@
+{
+  "event_id": "meta-100",
+  "source": "machine_metadata",
+  "machine_id": "M-100",
+  "event_ts": "2026-04-30T09:00:00Z",
+  "ingestion_ts": "2026-04-30T09:01:00Z",
+  "factory_id": "F-1", 
+  "line_id": "L-2",
+  "machine_type": "pump"    
+}

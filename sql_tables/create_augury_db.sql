@@ -1,0 +1,6 @@
+CREATE DATABASE augury 
+CREATE SCHEMA IF NOT EXISTS augury_exam
+
+
+
+

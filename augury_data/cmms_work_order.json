@@ -1,0 +1,10 @@
+{
+  "event_id": "wo-9001",
+  "source": "cmms_work_order",
+  "machine_id": "M-100",
+  "event_ts": "2026-04-30T11:00:00Z",
+  "ingestion_ts": "2026-04-30T11:02:00Z",
+  "work_order_id": "WO-9001",
+  "status": "open",
+  "priority": "high"
+}

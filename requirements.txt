@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.9
+pandas==2.1.4
+pendulum
+python-dotenv
+pyarrow
+pytest
