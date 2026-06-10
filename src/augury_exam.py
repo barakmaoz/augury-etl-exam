@@ -246,4 +246,4 @@ if __name__ == '__main__':
         build_context_edges()
 
     except Exception as e:
-        print(f"Failed to finsih the Jira Upsert ETL because {e}")
+        print(f"Failed to finsih the Augury ETL because {e}")
